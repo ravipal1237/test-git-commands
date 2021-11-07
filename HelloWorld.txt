@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 1. Hi Ravindra
 2.
 3. 
+=======
+1. Hi Ravindra
+>>>>>>> 28a17616ec6a781d1893a6ef0a2c032bdb0475f0
